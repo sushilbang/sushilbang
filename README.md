@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sushilbang
+- 👋 Hi, I’m Sushil
 
 <!---
 sushilbang/sushilbang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
