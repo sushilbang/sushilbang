@@ -25,7 +25,7 @@ Hi there! I'm **Sushil Bang**, currently pursuing a B.Tech in Information Techno
 - Enhancing skills in **problem-solving**
 
 ## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/sushilbang)
+- [LinkedIn](https://www.linkedin.com/in/sushil-bang-9b0327284/)
 - [Email](mailto:sushilbang17@gmail.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss tech!
