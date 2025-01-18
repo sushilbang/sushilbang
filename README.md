@@ -3,11 +3,11 @@
 Hi there! I'm **Sushil Bang**, currently pursuing a B.Tech in Information Technology at **Pimpri Chinchwad College of Engineering**. I am passionate about web development, data science, and solving complex problems through technology.
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, Express.js
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js
+- **Frameworks**: NextJS, ExpressJS, React
 - **Database**: MongoDB
-- **Data Science**: Python, Pandas, NumPy, Matplotlib, Scikit-learn
-- **Languages**: Python, C++
+- **Data Science**: Python, Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch -> (learning)
 - **Version Control**: Git & GitHub
 
 ## 💡 Skills
@@ -19,7 +19,6 @@ Hi there! I'm **Sushil Bang**, currently pursuing a B.Tech in Information Techno
 - MongoDB database management
 
 ## 🌱 What I'm Currently Learning
-- Advanced **React.js** concepts
 - **AI** and **Data Science** applications in different industries
 - Enhancing skills in **problem-solving**
 
