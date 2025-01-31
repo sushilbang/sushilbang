@@ -1,1 +1,1 @@
-I think all the improvements and innovations in tech should be open-sourced.
+I think improvements and innovations in tech should be open-sourced.
